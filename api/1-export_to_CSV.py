@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-"""returns information about his/her TODO list progress."""
+"""export data in the CSV format."""
 
 
 if __name__ == "__main__":
