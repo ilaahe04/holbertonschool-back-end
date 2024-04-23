@@ -4,9 +4,9 @@
 
 if __name__ == "__main__":
 
+    import csv
     import requests
     from sys import argv
-    import csv
 
     if len(argv) < 2:
         exit()
